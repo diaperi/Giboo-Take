@@ -101,7 +101,15 @@
 ![image](https://github.com/user-attachments/assets/2108d969-e161-428c-8c94-7b884f079215)
 ![image](https://github.com/user-attachments/assets/15d069a0-a888-4c18-b70d-0de8170d7a34)
 <br>
+<br>
 
 ## 🗂️ 기부, 봉사를 위한 사이트 소개 PPT (zip)
 [hunny.zip](https://github.com/user-attachments/files/17330677/hunny.zip)
+<br>
+<br>
+
+## 배포된 웹 사이트 
+현재는 막음
+https://hunny.today/
+
 
