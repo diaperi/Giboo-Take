@@ -1,6 +1,7 @@
 # Spring-Project-HUNNY
 즐거운 기부, 봉사를 위한 사이트 입니다. 
-<br>
+<br><br>
+
 
 
 ## 🖥️ 프로젝트 소개
@@ -11,24 +12,28 @@
 
 ## ⏰ 개발 기간
 - 23.05 ~ 23.07.08
+<br>
 
-### 멤버구성
+
+## 🧑‍🦲 멤버 구성
 - 팀장: 임형주 - Database Script 제작, 통합 및 형상 관리, 관리자 게시판, 로그인, 회원가입
 - 팀원1: 이슬기 - 마이페이지, 알림
 - 팀원2: 이유정 - UI/UX, 로그인, 회원가입
 - 팀원3: 심찬영 - 기부/봉사 파트, 관리자 페이지
 - 팀원4: 박상빈 - 고객센터 파트
 - 팀원5: 정서윤 - 이벤트/지도 파트
+<br>
 
 
-### 개발 환경
+## 🔦 개발 환경
 - `java 11`
 - **Framework** : Spring
 - **Database** : Oracle DB
 - **ORM** : Mybatis
+<br>
 
 
-## 주요 기능
+## 🔑 주요 기능
 
 #### 이용 대상: 기부자, 기부/봉사 운영자, 관리자
 
@@ -87,25 +92,16 @@
 - 리뷰 카테고리에서 페이지 리뷰 확인
 - 봉사자 리뷰 작성 
 - 지도 API를 통해 길찾기 
+<br>
 
 
 
+## 📎 요구사항정의서
 
-![슬라이드1](https://github.com/user-attachments/assets/860b6814-52b1-4705-9f49-95a97018e4ed)
-![슬라이드2](https://github.com/user-attachments/assets/04ec9d63-1236-42d3-b0e3-8e06c50b8c9b)
-![슬라이드3](https://github.com/user-attachments/assets/2094858e-6ece-4abc-9258-13ea7538b7be)
-![슬라이드4](https://github.com/user-attachments/assets/afaabf8a-295b-48da-add2-948c3834bee9)
-![슬라이드5](https://github.com/user-attachments/assets/87c7a286-0071-4b41-8494-36d86005208e)
-![슬라이드6](https://github.com/user-attachments/assets/d0ca0a42-542d-41b5-abab-19c6ca692d6b)
-![슬라이드7](https://github.com/user-attachments/assets/b584ab67-8608-410a-9c4c-6c660860cd14)
-![슬라이드8](https://github.com/user-attachments/assets/d48cbbce-161a-48e2-87c8-b6a5678b93b9)
-![슬라이드9](https://github.com/user-attachments/assets/15bdb92c-2200-42d6-93a2-84c829d611ff)
-![슬라이드10](https://github.com/user-attachments/assets/1983b03c-70d9-4dc7-b214-522751301edc)
-![슬라이드11](https://github.com/user-attachments/assets/41b5cdd7-c1f3-46f6-8535-6a99e9a08326)
-![슬라이드12](https://github.com/user-attachments/assets/88552299-01ec-4c09-aa3e-3460eaedb6e6)
-![슬라이드13](https://github.com/user-attachments/assets/c06b1f6d-0e63-48c2-b23c-79c20c3de746)
-![슬라이드14](https://github.com/user-attachments/assets/ae3cf848-f02d-43f3-ad87-b3b5f267f50a)
-![슬라이드15](https://github.com/user-attachments/assets/465c6561-959a-4b49-ac12-878345e496b7)
-![슬라이드16](https://github.com/user-attachments/assets/c245c11c-06b5-480a-b0c5-ea739ec3b3a0)
+![image](https://github.com/user-attachments/assets/2108d969-e161-428c-8c94-7b884f079215)
+![image](https://github.com/user-attachments/assets/15d069a0-a888-4c18-b70d-0de8170d7a34)
+<br>
 
+## 🗂️ 기부, 봉사를 위한 사이트 소개 PPT (zip)
+[hunny.zip](https://github.com/user-attachments/files/17330677/hunny.zip)
 
